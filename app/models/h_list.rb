@@ -1,0 +1,2 @@
+class HList < ApplicationRecord
+end
